@@ -2,7 +2,7 @@ package com.company.DPRevision;
 
 import java.util.Arrays;
 
-public class EditDistance1 {
+public class EditDistance {
     // Recursive Approach
     public static int editDist(String s, String t){
         // Base Case
